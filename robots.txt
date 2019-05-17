@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://otaphiesa.ionelberdin.com/sitemap.xml
